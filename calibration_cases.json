@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "question": "What does RAM do?",
+    "correct_answer": "RAM temporarily stores data used by running programs.",
+    "candidate_explanation": "RAM is temporary working memory for running programs and normally loses its contents when power is removed.",
+    "expected_score": 5
+  },
+  {
+    "id": 2,
+    "question": "What does DNS do?",
+    "correct_answer": "DNS resolves domain names to IP addresses and other records.",
+    "candidate_explanation": "DNS translates a domain name into its corresponding IP address.",
+    "expected_score": 4
+  },
+  {
+    "id": 3,
+    "question": "What is a stack?",
+    "correct_answer": "A stack normally follows Last In, First Out.",
+    "candidate_explanation": "A stack stores items and supports adding and removing them.",
+    "expected_score": 3
+  },
+  {
+    "id": 4,
+    "question": "What does a firewall do?",
+    "correct_answer": "A firewall filters network traffic according to security rules.",
+    "candidate_explanation": "A firewall mainly increases CPU speed and repairs damaged files.",
+    "expected_score": 2
+  },
+  {
+    "id": 5,
+    "question": "What is encryption for?",
+    "correct_answer": "Encryption helps protect confidentiality.",
+    "candidate_explanation": "Encryption makes every file publicly readable without a key.",
+    "expected_score": 1
+  },
+  {
+    "id": 6,
+    "question": "What does a primary key do?",
+    "correct_answer": "A primary key uniquely identifies a database row.",
+    "candidate_explanation": "A primary key uniquely identifies each row in its table.",
+    "expected_score": 5
+  },
+  {
+    "id": 7,
+    "question": "What is overfitting?",
+    "correct_answer": "A model fits training data well but generalizes poorly.",
+    "candidate_explanation": "Overfitting happens when a model learns training-specific patterns and performs worse on unseen examples.",
+    "expected_score": 4
+  },
+  {
+    "id": 8,
+    "question": "What is a loop?",
+    "correct_answer": "A loop repeats a block of instructions.",
+    "candidate_explanation": "A loop is a programming structure that controls instruction execution.",
+    "expected_score": 3
+  },
+  {
+    "id": 9,
+    "question": "What does TCP provide?",
+    "correct_answer": "TCP provides reliable, ordered byte-stream delivery.",
+    "candidate_explanation": "TCP guarantees delivery even when the receiver is offline, so packets can never be lost.",
+    "expected_score": 2
+  },
+  {
+    "id": 10,
+    "question": "How should passwords normally be stored?",
+    "correct_answer": "Use a suitable password-hashing algorithm with a unique salt.",
+    "candidate_explanation": "Passwords should be stored as plain text for easy recovery.",
+    "expected_score": 1
+  }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "topic": "Computer Hardware",
+        "question": "Which component executes program instructions? A) Monitor B) CPU C) Keyboard D) Printer",
+        "expected_answer": "B",
+        "reference_explanation": "The CPU executes program instructions and performs processing operations."
+    },
+    {
+        "id": 2,
+        "topic": "Memory",
+        "question": "Which type of memory is normally volatile? A) SSD B) RAM C) ROM D) DVD",
+        "expected_answer": "B",
+        "reference_explanation": "RAM normally loses its stored contents when power is removed."
+    },
+    {
+        "id": 3,
+        "topic": "Operating Systems",
+        "question": "What is a main role of an operating system? A) Manufacture hardware B) Design websites only C) Manage system resources D) Replace the CPU",
+        "expected_answer": "C",
+        "reference_explanation": "An operating system manages resources such as processes, memory, and devices."
+    },
+    {
+        "id": 4,
+        "topic": "Number Systems",
+        "question": "Which digits are used in the binary number system? A) 0 and 1 B) 0 through 7 C) 0 through 9 D) 1 through 10",
+        "expected_answer": "A",
+        "reference_explanation": "Binary is a base-two number system that uses only the digits 0 and 1."
+    },
+    {
+        "id": 5,
+        "topic": "Web",
+        "question": "Which protocol is commonly used to transfer web pages? A) SMTP B) HTTP C) FTP only D) BIOS",
+        "expected_answer": "B",
+        "reference_explanation": "HTTP is a protocol used for communication between web clients and servers."
+    },
+    {
+        "id": 6,
+        "topic": "Networking",
+        "question": "What does DNS commonly translate into an IP address? A) A file size B) A password C) A domain name D) A CPU instruction",
+        "expected_answer": "C",
+        "reference_explanation": "DNS resolves domain names to corresponding IP addresses and other DNS records."
+    },
+    {
+        "id": 7,
+        "topic": "Databases",
+        "question": "What is a primary key used for in a relational database? A) Encrypt every table B) Uniquely identify a row C) Make every value identical D) Delete backups",
+        "expected_answer": "B",
+        "reference_explanation": "A primary key uniquely identifies each row in a table."
+    },
+    {
+        "id": 8,
+        "topic": "SQL",
+        "question": "Which SQL command is used to retrieve data? A) SELECT B) DROP C) UPDATE only D) FORMAT",
+        "expected_answer": "A",
+        "reference_explanation": "SELECT retrieves data from one or more database tables or views."
+    },
+    {
+        "id": 9,
+        "topic": "Algorithms",
+        "question": "What is the worst-case time complexity of linear search in an unsorted list of n items? A) O(1) B) O(log n) C) O(n) D) O(n squared)",
+        "expected_answer": "C",
+        "reference_explanation": "Linear search may inspect all n items, giving O(n) worst-case time."
+    },
+    {
+        "id": 10,
+        "topic": "Data Structures",
+        "question": "Which data structure follows Last In, First Out (LIFO)? A) Queue B) Stack C) Graph D) Tree",
+        "expected_answer": "B",
+        "reference_explanation": "A stack removes the most recently added item first."
+    },
+    {
+        "id": 11,
+        "topic": "Data Structures",
+        "question": "Which data structure normally follows First In, First Out (FIFO)? A) Queue B) Stack C) Heap only D) Recursion",
+        "expected_answer": "A",
+        "reference_explanation": "A queue normally removes items in the same order they were added."
+    },
+    {
+        "id": 12,
+        "topic": "Programming",
+        "question": "What is recursion? A) Deleting a variable B) Sorting without comparisons C) A function calling itself D) Turning off a computer",
+        "expected_answer": "C",
+        "reference_explanation": "Recursion occurs when a function calls itself directly or indirectly."
+    },
+    {
+        "id": 13,
+        "topic": "Programming Languages",
+        "question": "What does a traditional ahead-of-time compiler generally do? A) Clean the keyboard B) Translate source code into a target form before execution C) Increase RAM physically D) Assign IP addresses",
+        "expected_answer": "B",
+        "reference_explanation": "A compiler translates source code into another form, often machine code, before execution."
+    },
+    {
+        "id": 14,
+        "topic": "Software Engineering",
+        "question": "What is Git mainly used for? A) Version control B) Image compression only C) Power management D) Database hosting only",
+        "expected_answer": "A",
+        "reference_explanation": "Git tracks changes to files and supports collaborative version control."
+    },
+    {
+        "id": 15,
+        "topic": "Cybersecurity",
+        "question": "Which security property does encryption primarily help protect? A) Screen brightness B) CPU temperature C) Confidentiality D) Keyboard layout",
+        "expected_answer": "C",
+        "reference_explanation": "Encryption helps keep information confidential by making it unreadable without the appropriate key."
+    },
+    {
+        "id": 16,
+        "topic": "Password Security",
+        "question": "How should a system normally store user passwords for verification? A) Store salted password hashes B) Save every password in plain text C) Put passwords in a public file D) Email passwords to all users",
+        "expected_answer": "A",
+        "reference_explanation": "Passwords should be stored using an appropriate password-hashing algorithm with a unique salt."
+    },
+    {
+        "id": 17,
+        "topic": "Cybersecurity",
+        "question": "What is phishing? A) A database backup method B) A deceptive attempt to obtain sensitive information C) A sorting algorithm D) A type of RAM",
+        "expected_answer": "B",
+        "reference_explanation": "Phishing uses deceptive messages or sites to trick people into revealing information or taking unsafe actions."
+    },
+    {
+        "id": 18,
+        "topic": "Network Security",
+        "question": "What does a firewall commonly do? A) Compile programs B) Replace a database C) Filter network traffic according to rules D) Increase monitor resolution",
+        "expected_answer": "C",
+        "reference_explanation": "A firewall permits or blocks network traffic according to configured security rules."
+    },
+    {
+        "id": 19,
+        "topic": "Networking",
+        "question": "What does an IP address help identify? A) A program's source code B) A network interface or endpoint C) A computer's screen size D) A database password",
+        "expected_answer": "B",
+        "reference_explanation": "An IP address identifies a network interface or endpoint for Internet Protocol communication."
+    },
+    {
+        "id": 20,
+        "topic": "Networking",
+        "question": "Which transport protocol provides reliable, ordered delivery of a byte stream? A) TCP B) UDP C) ARP D) DNS",
+        "expected_answer": "A",
+        "reference_explanation": "TCP provides reliable, ordered byte-stream delivery."
+    },
+    {
+        "id": 21,
+        "topic": "Networking",
+        "question": "Which statement about UDP is correct? A) It guarantees delivery B) It always retransmits lost packets C) It does not guarantee delivery or ordering D) It is a database query language",
+        "expected_answer": "C",
+        "reference_explanation": "UDP does not guarantee packet delivery, retransmission, or ordering."
+    },
+    {
+        "id": 22,
+        "topic": "Programming",
+        "question": "What is a loop commonly used for? A) Physically adding memory B) Repeating a block of instructions C) Encrypting every file automatically D) Replacing an operating system",
+        "expected_answer": "B",
+        "reference_explanation": "A loop repeats a block of instructions while its iteration conditions allow it."
+    },
+    {
+        "id": 23,
+        "topic": "Programming",
+        "question": "Why are functions useful? A) They package reusable behavior B) They always remove all bugs C) They replace all variables D) They make programs need no testing",
+        "expected_answer": "A",
+        "reference_explanation": "Functions organize behavior into reusable units and can reduce duplicated code."
+    },
+    {
+        "id": 24,
+        "topic": "Exception Handling",
+        "question": "In Python, which construct is commonly used to handle exceptions? A) SELECT FROM B) HTML BODY C) try and except D) IP and DNS",
+        "expected_answer": "C",
+        "reference_explanation": "Python uses try and except blocks to catch and handle exceptions."
+    },
+    {
+        "id": 25,
+        "topic": "Databases",
+        "question": "What is one major goal of database normalization? A) Increase duplicate data B) Reduce unnecessary redundancy C) Remove all keys D) Turn tables into images",
+        "expected_answer": "B",
+        "reference_explanation": "Normalization organizes relational data to reduce undesirable redundancy and update anomalies."
+    },
+    {
+        "id": 26,
+        "topic": "Software Engineering",
+        "question": "What is an API commonly used for? A) Allowing software components to communicate B) Cleaning physical hardware C) Replacing every algorithm D) Measuring monitor size",
+        "expected_answer": "A",
+        "reference_explanation": "An API defines how software components can request services or exchange information."
+    },
+    {
+        "id": 27,
+        "topic": "Computer Architecture",
+        "question": "What is the main purpose of a cache? A) Permanently replace all storage B) Generate passwords C) Keep frequently needed data available for faster access D) Remove the operating system",
+        "expected_answer": "C",
+        "reference_explanation": "A cache stores copies of useful data to reduce access time."
+    },
+    {
+        "id": 28,
+        "topic": "Machine Learning",
+        "question": "What is overfitting in machine learning? A) A model cannot be stored B) A model fits training data well but generalizes poorly to unseen data C) A model has no parameters D) A dataset contains only integers",
+        "expected_answer": "B",
+        "reference_explanation": "Overfitting occurs when a model learns training-specific patterns and performs poorly on new data."
+    },
+    {
+        "id": 29,
+        "topic": "Machine Learning",
+        "question": "Why is a held-out test dataset used? A) To estimate performance on unseen data B) To train on every test answer repeatedly C) To replace the training process D) To increase the file size",
+        "expected_answer": "A",
+        "reference_explanation": "A held-out test set estimates how well a model generalizes to data not used for training."
+    },
+    {
+        "id": 30,
+        "topic": "Cybersecurity",
+        "question": "What is two-factor authentication (2FA)? A) Using the same password twice B) Having two usernames C) Using two different authentication factors D) Logging in without authentication",
+        "expected_answer": "C",
+        "reference_explanation": "Two-factor authentication requires evidence from two different factor categories."
+    }
+]

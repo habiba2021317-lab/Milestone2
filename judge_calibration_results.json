@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "expected_score": 5,
+    "judge_score": 5,
+    "reason": "Brief explanation",
+    "error": null
+  },
+  {
+    "id": 2,
+    "expected_score": 4,
+    "judge_score": 5,
+    "reason": "Brief explanation",
+    "error": null
+  },
+  {
+    "id": 3,
+    "expected_score": 3,
+    "judge_score": 5,
+    "reason": "Brief explanation",
+    "error": null
+  },
+  {
+    "id": 4,
+    "expected_score": 2,
+    "judge_score": 1,
+    "reason": "The explanation is incorrect and substantially irrelevant. A firewall does not increase CPU speed or repair damaged files.",
+    "error": null
+  },
+  {
+    "id": 5,
+    "expected_score": 1,
+    "judge_score": 1,
+    "reason": "Brief explanation",
+    "error": null
+  },
+  {
+    "id": 6,
+    "expected_score": 5,
+    "judge_score": 5,
+    "reason": "Brief explanation",
+    "error": null
+  },
+  {
+    "id": 7,
+    "expected_score": 4,
+    "judge_score": 5,
+    "reason": "Brief explanation",
+    "error": null
+  },
+  {
+    "id": 8,
+    "expected_score": 3,
+    "judge_score": 5,
+    "reason": "Brief explanation",
+    "error": null
+  },
+  {
+    "id": 9,
+    "expected_score": 2,
+    "judge_score": 5,
+    "reason": "Brief explanation",
+    "error": null
+  },
+  {
+    "id": 10,
+    "expected_score": 1,
+    "judge_score": 1,
+    "reason": "Incorrect. Passwords should not be stored as plain text for security reasons.",
+    "error": null
+  }
+]
